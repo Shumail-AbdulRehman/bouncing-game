@@ -6,7 +6,7 @@ A complete 3D park physics practical built in Unity 6. The scene features an ova
 
 ![Silent recording of the balls bouncing](docs/bouncing-preview.gif)
 
-**[Play the 12-second MP4 with video controls](https://shumail-abdulrehman.github.io/bouncing-game/)** · [Download the original MP4](https://github.com/Shumail-AbdulRehman/bouncing-game/raw/refs/heads/main/CrescentPark-Working-Demo.mp4)
+**[Play the 12-second MP4 with video controls](http://shumail.me/bouncing-game/)** · [Download the original MP4](https://github.com/Shumail-AbdulRehman/bouncing-game/raw/refs/heads/main/CrescentPark-Working-Demo.mp4)
 
 The recording has no audio. The animated preview above plays directly in this README; the linked GitHub Pages player provides MP4 playback, replay, and fullscreen controls.
 
