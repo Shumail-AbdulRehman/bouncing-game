@@ -1,0 +1,6 @@
+PASS - Both Rigidbody spheres have gravity, Sphere Colliders and Physics Materials.
+PASS - Ground Plane has a Mesh Collider.
+PASS - Both balls rebounded under physics.
+PASS - Neither ball fell through the court during 12 simulated seconds.
+Coral: mass 0.75 kg; bounciness 0.92; Maximum combine.
+Gold: mass 2.5 kg; bounciness 0.35; Maximum combine.
